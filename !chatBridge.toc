@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: !chatBridge
+## Author: moh
+## Version: 1.0
+## DefaultState: Disabled
+## OptionalDeps: Chatter
+
+libs\module.lua
+
+chatBridge.lua
+
+modules\bridgeIcon.lua
